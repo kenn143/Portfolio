@@ -102,7 +102,7 @@ export default function Portfolio() {
       <section className="px-6 py-16 bg-gray-900/50 text-center">
         <h2 className="text-3xl font-bold mb-6">Let’s Work Together</h2>
         <p className="text-gray-400 mb-6">
-          Open to freelance opportunities, full-time roles, or collaborations. Let’s build something amazing!
+          Open to freelance opportunities, full-time/part-time roles, or collaborations. Let’s build something amazing!
         </p>
         <a
           href="mailto:your@email.com"
