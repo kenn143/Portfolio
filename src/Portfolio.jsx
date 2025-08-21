@@ -19,7 +19,7 @@ export default function Portfolio() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2 }}
         >
-          Hi, I’m <span className="text-purple-400">Ken</span>
+          Hi, I’m <span className="text-purple-400">Kenneth</span>
         </motion.h1>
         <motion.p
           className="mt-4 text-lg md:text-xl text-gray-300 max-w-2xl"
